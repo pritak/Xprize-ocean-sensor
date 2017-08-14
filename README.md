@@ -15,5 +15,7 @@ This project addresses part of the sensing section of the Ocean XPRIZE: designin
 The final report, included in the repository, details background research, building and testing processes, results, discussion, and includes pictures.
 ## Project Collaborators
 Pritak Patel, Duke University
+
 Ryan Anders, Duke University
+
 Sam Kelly, Duke University
