@@ -11,8 +11,10 @@ This project addresses part of the sensing section of the Ocean XPRIZE: designin
 7. Titanium and Zinc rods
 8. PVC piping (waterproofing)
 9. TP-Link Nano Wireless Access Point
-## Further Documentation
-The final report, included in the repository, details background research, building and testing processes, results, discussion, and includes pictures.
+## Included Files
+1. Xprize_final_report.pdf - the final report, which details background research, building and testing processes, results, discussion, and includes pictures
+2. hardware_upload.ino - arduino code that was uploaded to the Feather Huzzah and ran all components of the project, including activating LEDs, reading sensor data, and establishing wireless communication
+3. data_plotting_analytics.m - MATLAB code to process, plot, and analyze data from the ThingSpeak cloud once testing is complete
 ## Project Collaborators
 - Pritak Patel, Duke University
 - Ryan Anders, Duke University
